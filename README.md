@@ -1,6 +1,6 @@
 # flutter_guide
 
-A new Flutter project. A simple quiz app made to highlight flexiblity
+A new Flutter project. A simple quiz app made to highlight the flexiblity of Fluuter and Dart.
 
 ## Getting Started
 
