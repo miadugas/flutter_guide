@@ -76,7 +76,6 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     //questions = []; wont work if Questions is a const
-
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
